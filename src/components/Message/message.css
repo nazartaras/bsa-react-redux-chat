@@ -55,24 +55,3 @@
     border-bottom-right-radius: 10px;
 }
 
-.delete-button {
-    border: none;
-    border-radius: 5px;
-    background-color: red;
-    color: white;
-    padding: 0.2em;
-}
-
-.edit-button {
-    border: none;
-    border-radius: 0.2em;
-    margin: 0.2em;
-    padding: 0.2em;
-    background-color: blue;
-    color: white;
-}
-
-.edit-button:hover, .delete-button:hover {
-    transform: scale(1.1);
-    cursor: pointer;
-}
